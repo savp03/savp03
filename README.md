@@ -1,7 +1,6 @@
-Hola, mi nombre es Sergio Vargas 👋
-### Estudiante de Frontend
+### Hola, mi nombre es Sergio Vargas 👋
 
-Soy estudiante de administración. Apasiaonado por el mundo de la tecnología y programación.
+Soy estudiante Frontend y de administración. Apasionado por el mundo de la tecnología y programación.
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
