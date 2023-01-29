@@ -21,4 +21,4 @@ Soy estudiante Frontend y de administración. Apasionado por el mundo de la tecn
 
 ## Contacto:
 
-
+<a rel="me" href="https://masto.es/@sergiovargas">Mastodon</a>
