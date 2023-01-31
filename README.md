@@ -14,4 +14,9 @@ Soy estudiante Frontend y de administración. Apasionado por el mundo de la tecn
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/_savp_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/servargasand/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergiovperalta)
+<br>
 
+
+## Estadísticas:
+
+![Sergio GitHub stats](https://github-readme-stats.vercel.app/api?username=savp03)
