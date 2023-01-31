@@ -3,9 +3,9 @@
 Soy estudiante Frontend y de administración. Apasionado por el mundo de la tecnología y programación.
 
 ## Tecnologías:
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/savp03?tab=repositories&q=&type=&language=python&sort=)
-[![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://github.com/savp03?tab=repositories&q=&type=&language=html&sort=)
-[![CSS3](https://img.shields.io/badge/CSS3-red?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://github.com/savp03?tab=repositories&q=&type=&language=html&sort=)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/savp03?tab=repositories&q=&type=&language=python&sort=)
+[![HTML5](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://github.com/savp03?tab=repositories&q=&type=&language=html&sort=)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://github.com/savp03?tab=repositories&q=&type=&language=html&sort=)
 
 
 ## Encuéntrame en:
