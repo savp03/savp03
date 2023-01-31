@@ -20,3 +20,6 @@ Soy estudiante Frontend y de administración. Apasionado por el mundo de la tecn
 ## Estadísticas:
 
 ![Sergio GitHub stats](https://github-readme-stats.vercel.app/api?username=savp03)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savp03&show_icons=true&locale=en&layout=compact" alt="savp03" /></p>
+
+
