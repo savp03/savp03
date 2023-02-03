@@ -9,8 +9,8 @@ Hola, soy Sergio Vargas, estudiante Frontend y de administración apasionado por
 ## Mis habilidades
 
 - [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/savp03?tab=repositories&q=&type=&language=python&sort=)
-- [![HTML5](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://github.com/savp03?tab=repositories&q=&type=&language=html&sort=)
-- [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://github.com/savp03?tab=repositories&q=&type=&language=html&sort=)
+- [![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://github.com/savp03?tab=repositories&q=&type=&language=html&sort=)
+- [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://github.com/savp03?tab=repositories&q=&type=&language=css&sort=)
 
 ## ¿Dónde me puedes encontrar?
 
