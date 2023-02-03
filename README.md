@@ -14,10 +14,10 @@ Hola, soy Sergio Vargas, estudiante Frontend y de administración apasionado por
 
 ## ¿Dónde me puedes encontrar?
 
-Me puedes encontrar en estas redes sociales:
+Soy una persona en búsqueda de nuevos retos y oportunidades en mi carrera. Si estás interesado en conectarte y explorar cómo puedo aportar valor a tu proyecto, no dudes en contactarme a través de mis redes sociales o enviarme un correo electrónico.
+
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/_savp_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/servargasand/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergiovperalta)
-
-
+[![Email](https://img.shields.io/badge/hola@sergioperalta.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hola@sergioperalta.dev)
