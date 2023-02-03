@@ -20,7 +20,4 @@ Me puedes encontrar en estas redes sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/servargasand/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergiovperalta)
 
-## Estadísticas de Github
 
-![Sergio GitHub stats](https://github-readme-stats.vercel.app/api?username=savp03)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savp03&show_icons=true&locale=en&layout=compact" alt="savp03" /></p>
